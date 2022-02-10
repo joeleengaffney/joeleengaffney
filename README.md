@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joeleengaffney
+- 👀 I’m interested in building my coding experience and general knowledge
+- 🌱 I’m currently majoring in statistics
+- 💞️ I’m looking to collaborate on any code that could be helpful in getting general ideas
